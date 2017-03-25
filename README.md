@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi, I'm here to learn how to use git. I'm student at FINKI.
